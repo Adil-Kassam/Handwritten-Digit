@@ -1,7 +1,7 @@
 # Handwritten-Digit Recognition
 
 
-## [Overview]:
+## Overview:
 
 
 This Python project employs the power of deep learning to recognize handwritten digits. Through Convolutional Neural Networks (CNNs), the project enables machines to accurately identify and classify handwritten numerals from images.
