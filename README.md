@@ -6,13 +6,13 @@
 
 This Python project employs the power of deep learning to recognize handwritten digits. Through Convolutional Neural Networks (CNNs), the project enables machines to accurately identify and classify handwritten numerals from images.
 
-## [Objective]:
+## Objective:
 
 
 
 The primary goal of this project is to develop a robust system capable of interpreting human-written digits with high accuracy. By leveraging the MNIST dataset, the project aims to train a CNN model to recognize and classify digits ranging from 0 to 9.
 
-## [Key Features]:
+## Key Features:
 
 
 Efficient Digit Recognition: Utilizes CNNs to achieve precise recognition of handwritten digits.
@@ -26,7 +26,7 @@ Seamless Integration: Integrates seamlessly with Python, making it accessible an
 
 Scalable Architecture: Employs a scalable architecture, allowing for potential enhancements and customizations.
 
-## [How it Works]:
+## How it Works:
 
 
 Data Preparation: The MNIST dataset comprising thousands of handwritten digit images is preprocessed to prepare it for training.
@@ -42,7 +42,7 @@ Real-Time Recognition: The trained model is integrated into the GUI, allowing us
 
 
 
-## [Benefits]:
+## Benefits:
 
 
 Practical Application: Demonstrates the practical application of deep learning in real-world scenarios, such as optical character recognition.
