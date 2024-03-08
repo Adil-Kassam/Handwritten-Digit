@@ -1,5 +1,9 @@
 # Handwritten-Digit Recognition
 
+![image](https://github.com/Adil-Kassam/Handwritten-Digit-Recogniser/assets/76568714/752814c0-f70b-4556-9548-c29135d8fd5b)
+
+
+
 
 ## Overview:
 
